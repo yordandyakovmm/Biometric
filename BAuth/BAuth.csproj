@@ -190,12 +190,12 @@
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\IndexController.cs" />
-    <Compile Include="DAL\Entities\Abstract\EntityBase.cs" />
-    <Compile Include="DAL\Entities\Abstract\EntityID.cs" />
-    <Compile Include="DAL\Entities\Claim.cs" />
-    <Compile Include="DAL\Entities\AirPort.cs" />
-    <Compile Include="DAL\Entities\Users.cs" />
-    <Compile Include="DAL\Initializers\DbInitializer.cs" />
+    <Compile Include="Controllers\DAL\Entities\Abstract\EntityBase.cs" />
+    <Compile Include="Controllers\DAL\Entities\Abstract\EntityID.cs" />
+    <Compile Include="Controllers\DAL\Entities\Claim.cs" />
+    <Compile Include="Controllers\DAL\Entities\AirPort.cs" />
+    <Compile Include="Controllers\DAL\Entities\Users.cs" />
+    <Compile Include="Controllers\DAL\Initializers\DbInitializer.cs" />
     <Compile Include="Hellpers\UserHeppler.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Global.asax.cs">
@@ -332,7 +332,7 @@
     <Content Include="Scripts\datepicker-bg.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Compile Include="DAL\BAuthDBContext.cs" />
+    <Compile Include="Controllers\DAL\BAuthDBContext.cs" />
     <Content Include="Scripts\jquery-1.12.4.js" />
     <Content Include="Scripts\jquery-1.12.4.min.js" />
     <Content Include="Scripts\jquery-1.12.4.min.map" />
