@@ -71,4 +71,3 @@ D:\Code\Biometric\BAuth\bin\System.Web.Helpers.xml
 D:\Code\Biometric\BAuth\bin\System.Web.WebPages.xml
 D:\Code\Biometric\BAuth\bin\System.Web.WebPages.Deployment.xml
 D:\Code\Biometric\BAuth\bin\System.Web.WebPages.Razor.xml
-D:\Code\Biometric\BAuth\obj\Debug\BAuth.csprojResolveAssemblyReference.cache
