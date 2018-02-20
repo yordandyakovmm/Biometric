@@ -1,0 +1,5 @@
+D:\Math\Release\AForge.Imaging.Formats.dll
+D:\Math\Release\AForge.Imaging.Formats.pdb
+D:\Math\Release\AForge.Imaging.Formats.xml
+D:\Math\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.dll
+D:\Math\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.pdb

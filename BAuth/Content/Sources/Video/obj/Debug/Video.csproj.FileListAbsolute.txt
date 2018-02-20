@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Video.dll
+D:\Math\Release\AForge.Video.pdb
+D:\Math\Release\AForge.Video.xml
+D:\Math\Sources\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Video\obj\Debug\AForge.Video.dll
+D:\Math\Sources\Video\obj\Debug\AForge.Video.pdb

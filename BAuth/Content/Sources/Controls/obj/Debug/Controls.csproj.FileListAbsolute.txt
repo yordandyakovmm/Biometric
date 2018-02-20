@@ -1,0 +1,14 @@
+D:\Math\Release\AForge.Controls.dll
+D:\Math\Release\AForge.Controls.pdb
+D:\Math\Release\AForge.Controls.xml
+D:\Math\Sources\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+D:\Math\Sources\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.dll
+D:\Math\Sources\Controls\obj\Debug\AForge.Controls.pdb

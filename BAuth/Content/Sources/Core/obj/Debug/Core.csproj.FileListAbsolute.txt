@@ -1,0 +1,5 @@
+D:\Math\Release\AForge.dll
+D:\Math\Release\AForge.pdb
+D:\Math\Release\AForge.xml
+D:\Math\Sources\Core\obj\Debug\AForge.dll
+D:\Math\Sources\Core\obj\Debug\AForge.pdb

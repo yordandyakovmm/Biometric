@@ -1,0 +1,5 @@
+D:\Math\Release\AForge.Video.Ximea.dll
+D:\Math\Release\AForge.Video.Ximea.pdb
+D:\Math\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.dll
+D:\Math\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.pdb
+D:\Math\Sources\Video.Ximea\obj\Debug\Video.Ximea.csprojResolveAssemblyReference.cache

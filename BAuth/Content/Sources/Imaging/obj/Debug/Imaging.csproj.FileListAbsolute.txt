@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Imaging.dll
+D:\Math\Release\AForge.Imaging.pdb
+D:\Math\Release\AForge.Imaging.xml
+D:\Math\Sources\Imaging\obj\Debug\Imaging.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Imaging\obj\Debug\AForge.Imaging.dll
+D:\Math\Sources\Imaging\obj\Debug\AForge.Imaging.pdb

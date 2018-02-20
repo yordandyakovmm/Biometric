@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Vision.dll
+D:\Math\Release\AForge.Vision.pdb
+D:\Math\Release\AForge.Vision.xml
+D:\Math\Sources\Vision\obj\Debug\Vision.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Vision\obj\Debug\AForge.Vision.dll
+D:\Math\Sources\Vision\obj\Debug\AForge.Vision.pdb

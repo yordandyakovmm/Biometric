@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Genetic.dll
+D:\Math\Release\AForge.Genetic.pdb
+D:\Math\Release\AForge.Genetic.xml
+D:\Math\Sources\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Genetic\obj\Debug\AForge.Genetic.dll
+D:\Math\Sources\Genetic\obj\Debug\AForge.Genetic.pdb

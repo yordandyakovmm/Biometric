@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Robotics.Surveyor.dll
+D:\Math\Release\AForge.Robotics.Surveyor.pdb
+D:\Math\Release\AForge.Robotics.Surveyor.xml
+D:\Math\Sources\Robotics.Surveyor\obj\Debug\Robotics.Surveyor.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Robotics.Surveyor\obj\Debug\AForge.Robotics.Surveyor.dll
+D:\Math\Sources\Robotics.Surveyor\obj\Debug\AForge.Robotics.Surveyor.pdb

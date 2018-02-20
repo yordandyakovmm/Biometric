@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Fuzzy.dll
+D:\Math\Release\AForge.Fuzzy.pdb
+D:\Math\Release\AForge.Fuzzy.xml
+D:\Math\Sources\Fuzzy\obj\Debug\Fuzzy.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.dll
+D:\Math\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.pdb

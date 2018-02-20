@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Video.Kinect.dll
+D:\Math\Release\AForge.Video.Kinect.pdb
+D:\Math\Release\AForge.Video.Kinect.xml
+D:\Math\Sources\Video.Kinect\obj\Debug\Video.Kinect.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.dll
+D:\Math\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.pdb

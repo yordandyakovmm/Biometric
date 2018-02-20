@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Neuro.dll
+D:\Math\Release\AForge.Neuro.pdb
+D:\Math\Release\AForge.Neuro.xml
+D:\Math\Sources\Neuro\obj\Debug\Neuro.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+D:\Math\Sources\Neuro\obj\Debug\AForge.Neuro.pdb

@@ -1,0 +1,6 @@
+D:\Math\Release\AForge.Video.VFW.dll
+D:\Math\Release\AForge.Video.VFW.pdb
+D:\Math\Release\AForge.Video.VFW.xml
+D:\Math\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+D:\Math\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb
+D:\Math\Sources\Video.VFW\obj\Debug\Video.VFW.csprojResolveAssemblyReference.cache

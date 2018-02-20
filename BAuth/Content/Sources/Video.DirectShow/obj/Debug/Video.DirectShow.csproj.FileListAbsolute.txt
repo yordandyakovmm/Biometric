@@ -1,0 +1,9 @@
+D:\Math\Release\AForge.Video.DirectShow.dll
+D:\Math\Release\AForge.Video.DirectShow.pdb
+D:\Math\Release\AForge.Video.DirectShow.xml
+D:\Math\Sources\Video.DirectShow\obj\Debug\Video.DirectShow.csprojResolveAssemblyReference.cache
+D:\Math\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+D:\Math\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+D:\Math\Sources\Video.DirectShow\obj\Debug\Video.DirectShow.csproj.GenerateResource.Cache
+D:\Math\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+D:\Math\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb

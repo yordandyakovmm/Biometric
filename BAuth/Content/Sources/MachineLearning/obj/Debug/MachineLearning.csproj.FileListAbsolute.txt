@@ -1,0 +1,5 @@
+D:\Math\Release\AForge.MachineLearning.dll
+D:\Math\Release\AForge.MachineLearning.pdb
+D:\Math\Release\AForge.MachineLearning.xml
+D:\Math\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.dll
+D:\Math\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.pdb
