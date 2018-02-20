@@ -1,35 +1,73 @@
 ﻿
+<script src="~/Scripts/p5/p5.min.js"></script>
+<script src="~/Scripts/p5/addons/p5.dom.min.js"></script>
+<script src="~/Scripts/p5/addons/p5.sound.min.js"></script>
 
-<div class="form-content">
-    <div class="login-form-main">
-        <form method="post" enctype="multipart/form-data">
-            <div class="header-text">
-                <span>Вход</span>
-            </div>
-            <div>
-                <input type="text" name="Email" placeholder="Емейл" validate />
-            </div>
-            <div>
-                <input type="password" name="Password" placeholder="Име" validate />
-            </div>
-            @if (ViewBag.error != null)
-            {
-                <div class="autentication-error">
-                    Невалиден емейл или парола
+<div class="register-form">
+    <div class="left-content">
+    </div>
+    <div class="center-content">
+
+        <div class="box">
+            <div class="form-box-signiture">
+                <label>Подпис</label>
+                <div class="convas-holder">
+                    <div id="signiture-div" width="500" height="300">
+                    </div>
+                    <canvas id="signiture" width="500" height="300"></canvas>
+                    <img name="signiture-img" style="display:none;">
                 </div>
-            }
-            <div class="button-div">
                 <div>
-                    <button class="submit-smal" type="submit" keypress="return false" onclick="return validate()">Вход</button>
+                    <button class="clear" type="button" onclick="return clearSignature(this); return false;"><span>Изчисти</span></button>
                 </div>
-
             </div>
-            <div class="form-row">
-                &nbsp;
-            </div>
-        </form>
-
+        </div>
+    </div>
+    <div class="rigth-contentt">
     </div>
 </div>
 
-<script src="~/Scripts/form.js"></script>
+<script type="text/javascript">
+    // Adapted from Learning Processing, Daniel Shiffman
+    // learningprocessing.com
+    var input;
+    var analyzer;
+
+    function setup() {
+        createCanvas(710, 200);
+        background(255);
+
+        // Create an Audio input
+        input = new p5.AudioIn();
+
+        input.start();
+    }
+
+    function draw() {
+        // Get the overall volume (between 0 and 1.0)
+        var volume = input.getLevel();
+
+        // If the volume > 0.1,  a rect is drawn at a random location.
+        // The louder the volume, the larger the rectangle.
+        var threshold = 0.1;
+        if (volume > threshold) {
+            stroke(0);
+            fill(0, 100);
+            rect(random(40, width), random(height), volume * 50, volume * 50);
+        }
+
+        // Graph the overall potential volume, w/ a line at the threshold
+        var y = map(volume, 0, 1, height, 0);
+        var ythreshold = map(threshold, 0, 1, height, 0);
+
+        noStroke();
+        fill(175);
+        rect(0, 0, 20, height);
+        // Then draw a rectangle on the graph, sized according to volume
+        fill(0);
+        rect(0, y, 20, y);
+        stroke(0);
+        line(0, ythreshold, 19, ythreshold);
+    }
+
+</script>
